@@ -1,0 +1,16 @@
+{
+  "name": "advanced-css-course-master",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "This repo contains starter files and the finished project files for all the projects contained in the course.",
+  "main": "index.js",
+  "scripts": {
+    "sass-dev": "sass --watch --update --style=expanded sass:css",
+    "sass-prod": "sass --no-source-map --style=compressed sass:css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.54.9"
+  }
+}
