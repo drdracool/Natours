@@ -18,6 +18,6 @@ Only available on Desktop for now
 
 <img width="1331" alt="image" src="https://user-images.githubusercontent.com/97832811/191636339-af0d0aae-1f45-4e98-8f22-009458a81778.png">
 
-##Link
+## Link
 
 https://drdracool.github.io/Natours/#
