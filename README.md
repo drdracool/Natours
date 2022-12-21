@@ -2,7 +2,7 @@
 
 Official website of a virtual travel company, achieved with cutting-ege css technology
 
-Only available on Desktop for now
+Available on different screens
 
 ## Preview
 
